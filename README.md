@@ -9,7 +9,7 @@ impromptu
 
 /
 
-*Pièce d'improvisation débutée par*
+*Pièce d'improvisation démarragée par*
 
 <br>
 <dl>
